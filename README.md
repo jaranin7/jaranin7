@@ -1,4 +1,4 @@
-# Hi 👋 My name is Tee Jaranin
+# Hi 👋 My name is Jaranin Promsranoi
 
 ## About Me
 I am a student passionate about **Machine Learning (ML)** and **Deep Learning (DL)**. I have been studying these fields for a year and gained internship experience at **Waseda University**, Kikuicho Campus, in Amano Lab, Japan. My project focused on **solar power forecasting** using a Temporal Fusion Transformer, implemented with **Facebook's PyTorch Forecasting library**.
