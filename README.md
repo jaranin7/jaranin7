@@ -10,7 +10,8 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
 
 ## Skills  
 
-<table>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <table style="border-collapse: collapse; margin: auto; text-align: center;">
   <tr>
     <td>
       <h4>Programming Languages</h4>
@@ -52,7 +53,7 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## Socials
