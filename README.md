@@ -54,6 +54,7 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
   </tr>
 </table>
 </div>
+
 ---
 
 ## Socials
