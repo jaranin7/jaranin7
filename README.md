@@ -70,3 +70,13 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaranin7&theme=github_dark" alt="Profile Summary Card" />
 </p>
+<p align="center">
+  <a href="https://github.com/jaranin7">
+    <img src="https://komarev.com/ghpvc/?username=jaranin7&color=blue&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jaranin7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaranin7&layout=compact&theme=graywhite" alt="Top Languages" />
+  </a>
+</p>
