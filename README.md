@@ -67,7 +67,6 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
 <p align="left">
   <a href="https://github.com/jaranin7">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaranin7&layout=compact&theme=graywhite" alt="Top Languages" /> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaranin7&theme=github_dark" alt="Profile Summary Card" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaranin7&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
