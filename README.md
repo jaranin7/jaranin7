@@ -76,7 +76,5 @@ I am a student passionate about **Machine Learning (ML)** and **Deep Learning (D
   </a> 
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaranin7&theme=github_dark" alt="Language Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaranin7&theme=github_dark" alt="Commit Language Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaranin7&theme=github_dark" alt="Profile Summary Card" />
 </p>
-
